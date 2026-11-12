@@ -1,4 +1,4 @@
-![Minimal graphite cursor sculpture](./cover-minimal.png)
+![A quiet coding corner, illustrated in chibi style](./cover-chibi.png)
 
 ### hey, i'm quang.
 
